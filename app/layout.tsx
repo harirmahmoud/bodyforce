@@ -8,7 +8,7 @@ import { Footer } from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "ElectroMart - Premium Home Appliances & Electronics",
+  title: "Body Force",
   description:
     "Shop premium home appliances including air conditioners, dishwashers, refrigerators, and more. Energy-efficient models with free installation.",
   keywords: "appliances, air conditioner, dishwasher, refrigerator, washing machine, electronics, home appliances",
